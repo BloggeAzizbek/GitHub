@@ -1,2 +1,0 @@
-# GitHub
-GidHub tutorial video
